@@ -1,5 +1,19 @@
 [
   {
+    "_id": "71b5ed07-9e1e-47d0-937a-64c396d5567c",
+    "name": "Atul Kodla",
+    "phoneNumber": "+69 420360720",
+    "funFact": "Is a tosser.",
+    "photoUrl": "https://i1.sndcdn.com/artworks-PB8srDrsArrM41bN-TaNAdw-t500x500.jpg"
+  },
+  {
+    "_id": "71b5ed07-9e1e-47d0-937a-64c396d5567d",
+    "name": "Hamish Patel",
+    "phoneNumber": "+420 69000069",
+    "funFact": "Dairy boy",
+    "photoUrl": "https://pbs.twimg.com/profile_images/861814141899620352/rilXkENS_200x200.jpg"
+  },
+  {
     "_id": "055f1aaa-aab0-4ff3-a709-85c28f1d397f",
     "name": "Luke Skywalker",
     "phoneNumber": "+1 555-000-1001",

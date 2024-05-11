@@ -29,6 +29,7 @@ export default function Sidebar({
         <input
           className={styles.searchbar}
           type="text"
+          placeholder="Search a Friend"
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
         />
